@@ -1,19 +1,36 @@
-<h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">Security researcher | CTF player | Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad-ks&label=Profile%20views&color=0e75b6&style=flat" alt="fahad-ks" /> </p>
-
-- 🔭 I’m currently working on [here](https://github.com/fahad-ks/Solved-Tryhackme)
-
-- 📝 I regularly write articles on [https://github.com/fahad-ks/Solved-Tryhackme](https://github.com/fahad-ks/Solved-Tryhackme)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">👋 Hi there! I'm Fahad</h3>
+<p align="center">
+  <a href="![image](https://user-images.githubusercontent.com/74481173/172303086-29bc28da-7433-47d4-a0a6-3e50116458fd.png)">Website</a> •
+  <a href="![image](https://user-images.githubusercontent.com/74481173/172303098-c7231850-30f2-497d-ae2f-deb796010012.png)">Twitter</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
+Im a passionate 16 year old security researcher | CTF player | Red Teamer | Blue Teamer.
+What can expect from this github page?
+- My hacking notes
+- My CTF writeups
+- My Beginners guide on How's and What's
+- My simple Bash tools
+- And More..
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad-ks&show_icons=true&locale=en&layout=compact" alt="fahad-ks" /></p>
+What im currently learning?
+- C Programming
+- Linux binary exploitation
+- Linux internals 
+- And more 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad-ks&show_icons=true&locale=en" alt="fahad-ks" /></p>
+<!--
+**lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
