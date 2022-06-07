@@ -7,7 +7,8 @@
 
 ---
 Im a passionate 16 year old security researcher | CTF player | Red Teamer | Blue Teamer.
-What can expect from this github page?
+
+What can you expect from this github page?
 - My hacking notes
 - My CTF writeups
 - My Beginners guide on How's and What's
@@ -18,19 +19,6 @@ What im currently learning?
 - C Programming
 - Linux binary exploitation
 - Linux internals 
-- And more 
+- And more..
 
-<!--
-**lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
