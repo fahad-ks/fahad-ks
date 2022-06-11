@@ -15,10 +15,6 @@ What can you expect from this github page?
 - My simple Bash tools
 - And More..
 
-What im currently learning?
-- C Programming
-- Linux binary exploitation
-- Linux internals 
-- And more..
+
 
 
